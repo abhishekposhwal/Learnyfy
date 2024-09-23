@@ -1,0 +1,45 @@
+#opps *{
+	margin: 0;
+	padding: 0;
+	color: #4a4a4a;
+}
+body{
+
+	background:#fff; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f9f9ff;
+}
+#opps .opps
+{
+	font-size: 250px;
+	font-family: "Segoe UI Light";
+	margin-top: 70px;
+	font-weight: 0;
+	color: #000;
+}
+#opps p{
+	font-size: 30px;
+	margin-top: -25px;
+	color: #000;
+}
+#opps span{
+	font-size: 22px;
+	color: #000;
+}
+#opps button{
+	margin-top: 40px;
+	padding: 17px 60px 17px 60px;
+	border-radius: 5px;
+	border:1px solid #8490ff;
+	background: #8490ff;
+	color: #fff;
+	outline: none;
+	font-size: 15px;
+}
+#opps button:hover{
+	background: #23272b;
+	color: #fff;
+	border-color: #23272b;
+	transition: all ease 1s;
+}
